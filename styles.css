@@ -1,0 +1,28 @@
+/*nav bar*/
+
+#navigation{
+  background-color: #daac00;
+  padding: 0 8%;
+  }
+.navbar-nav{
+  color: rgb (255 255 255);
+  font-size: 25px;
+  padding-left: 60px;
+}
+
+#searchbox{
+  color: white;
+  border: 0px;
+  border-radius: 0;
+  position: relative;
+  left: 50px;
+}
+
+#searchbtn{
+position: relative;
+z-index: 99;
+background-color: blue;
+color: white;
+border: 0;
+border-radius: 0;
+}
