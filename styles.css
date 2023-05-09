@@ -1,27 +1,12 @@
-/*nav bar*/
-
-#navigation{
-  background-color: #daac00;
-  padding: 0 8%;
-  
-  }
-
-
-  
-
-#searchbox{
-  background-color: rgb(212, 126, 126);
-  color: rgb(255, 255, 255);
-  border: 0px;
-  border-radius: 0;
-  position: relative;
-  left: 51px;
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'poppins', sans-serif;
 }
-
-#searchbtn{
-position: relative;
-background-color: rgb(73, 73, 124);
-color: white;
-border: 0;
-border-radius: 0;
+a{
+  text-decoration: none;
+  color: #5a5a5a;
+}
+img{
+  cursor: pointer;
 }
